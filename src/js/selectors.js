@@ -1,0 +1,16 @@
+export const manageInventoryBtn = document.getElementById("manageInventoryBtn");
+export const manageInventorySection = document.getElementById("manageInventorySection");
+export const closeManageInventoryBtn = document.getElementById("closeManageInventoryBtn");
+export const addNewProductBtn = document.getElementById("addNewProductBtn");
+export const newProductName = document.getElementById("newProductName");
+export const newPrice = document.getElementById("newPrice");
+export const productGroup = document.getElementById("productGroup");
+export const productCartTemplate = document.getElementById("productCartTemplate");
+export const productSelect = document.getElementById("productSelect");
+export const addRecordForm = document.getElementById("addRecordForm");
+export const recordRowTemplate = document.getElementById("recordRowTemplate");
+export const rowGroup = document.getElementById("rowGroup");
+export const total = document.getElementById("total");
+export const tax = document.getElementById("tax");
+export const netTotal = document.getElementById("netTotal");
+export const checkoutBtn = document.getElementById("checkoutBtn");
